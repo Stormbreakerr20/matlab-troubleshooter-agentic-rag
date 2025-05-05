@@ -205,36 +205,3 @@ ngrok http 8000
 | Protocols         | Model Context Protocol (MCP)                               |
 | Programming Lang. | Python                                                     |
 | Logging & History | Zep                                                        |
-
----
-
-## 🙏 Acknowledgments
-
-A big thanks to:
-
-* **Dr. Aditya Nigam**
-* **Dr. Arnav Bhavsar**
-* **Our Mentor: Kajal Mam**
-
-for their invaluable guidance and this incredible opportunity.
-
----
-
-## 👨‍👩‍👧‍👦 Team Members — Team 6
-
-| Name     | Roll Number |
-| -------- | ----------- |
-| Saurabh Kumar Sonkar | B22175    |
-| Abhijeet Kumar Jha | B22149    |
-| Sameer Rawat | B22172    |
-| Ch. Sunil Patra | B22294   |
-| Tarun Srivastava | B22333    |
-| Nani Panyu | B22054  |
-
----
-
-## 📬 Contact
-
-For queries or contributions, feel free to open an issue or submit a pull request.
-
----
