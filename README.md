@@ -25,7 +25,7 @@ MATFix AI is an interactive, multi-agent system that leverages advanced AI model
 
 ```
 
-DL-Hackathon/
+/
 │
 ├── MCP/
 │   └── matlab\_troubleshooter/
